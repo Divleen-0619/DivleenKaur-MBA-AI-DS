@@ -1,4 +1,3 @@
-# DivleenKaur-MBA-AI-DS
 # UNIT 01
 Data strucure:- A data structure is a way to store data. We structure data in different ways depending on what data we have, and what we want to do with it.Data structures give us the possibility to manage large amounts of data efficiently for uses such as large databases and internet indexing services.Data structures are essential ingredients in creating fast and powerful algorithms. They help in managing and organizing data, reduce complexity, and increase efficiency.
 
